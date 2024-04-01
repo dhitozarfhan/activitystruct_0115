@@ -34,4 +34,7 @@ int main() {
 	}
 
 	for (int i = 0; i < 3; i++) {
+		cout << endl;
+		cout << "Data mahasiswa ke-" << (i = 1) << ":" << endl;
+
 
