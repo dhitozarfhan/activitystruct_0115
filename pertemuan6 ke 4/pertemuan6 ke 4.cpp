@@ -23,3 +23,4 @@ int main() {
 		getline(cin, mhs[i].nama);
 
 		
+	}
